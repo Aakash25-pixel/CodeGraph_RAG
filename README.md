@@ -1,5 +1,7 @@
 # CodeGraph RAG
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?logo=streamlit)](https://codegraph.streamlit.app/)
+
 CodeGraph RAG is a powerful, Polyglot Retrieval-Augmented Generation (RAG) tool designed to understand, index, and query software repositories intelligently. Instead of relying solely on text-based vector search, it constructs a structural Knowledge Graph of your codebase (mapping file hierarchies, function calls, and class inheritances) and combines it with FAISS vector embeddings to give an LLM profound architectural context.
 
 ## 🌟 Features
