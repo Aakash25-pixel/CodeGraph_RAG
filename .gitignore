@@ -1,0 +1,22 @@
+# Environments
+.env
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and Artifacts
+data/
+*.gpickle
+*.jsonl
+faiss_index*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/

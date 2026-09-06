@@ -1,0 +1,10 @@
+[
+    {
+        "question": "Where is the graph builder logic?",
+        "expected_keywords": ["graph", "builder", "networkx"]
+    },
+    {
+        "question": "What functions depend on the tree-sitter parser?",
+        "expected_keywords": ["RepoChunker", "GraphBuilder"]
+    }
+]
